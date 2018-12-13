@@ -1,5 +1,5 @@
-This is a web-app I created using django.
+This is a webapp I created using django.
 
-This we-app is hosted on "crammers.pythonanywhere.com"
+This webapp is hosted on "crammers.pythonanywhere.com"
 
 Credits to Djangogirls.
