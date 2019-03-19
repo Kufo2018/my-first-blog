@@ -1,5 +1,6 @@
-This is a webapp I created using django.
+This is a Webapp using the framework Django.
 
-This webapp is hosted on "crammers.pythonanywhere.com"
+Current address is "crammers.pythonanywhere.com"
+
 
 Credits to Djangogirls.
